@@ -30,7 +30,7 @@ permalink: /blog/:title
 # includes
 include: ["_drafts"]
 include: ["_pages"]
- 
+  
 gems:
     - jekyll-paginate
 - jekyll-feed
