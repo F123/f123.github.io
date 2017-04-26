@@ -16,4 +16,4 @@ The technical whizkid.
 Rill
 ----
 
-The writer. I post at rillonline.info[]https://rillonline.info().
+The writer. I post at [rillonline.info](https://rillonline.info).
