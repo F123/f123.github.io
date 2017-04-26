@@ -17,7 +17,7 @@
  title: Technical blog for F123 Visual
  description: A scalable strategy for the education and employment of persons with disabilities.
  tagline: Technology that enables.
- baseurl: "https://f123.github.io/"  # the subpath of your site, e.g. /blog
+ baseurl: "https://f123.github.io"  # the subpath of your site, e.g. /blog
  url: "https://f123.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Build settings
