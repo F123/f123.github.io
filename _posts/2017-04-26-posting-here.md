@@ -33,7 +33,7 @@ in `emacs` will work very nicely for this.
 ### Post Conventions ###
 
 [Jekyll][jekyll] expects the post to have the filename
-`yyyy-mm-dd-title.md`. The Place this file in the `_posts` directory.
+`yyyy-mm-dd-title.md`. Place this file in the `_posts` directory.
 
 Additionally, [Jekyll][jekyll] requires front matter at the top of
 your file. The front matter for this post  follows:
@@ -60,9 +60,9 @@ When you are satisfied with your post, publish it using `git`.
     git commit -m "publishing my post <file name>"
     git push origin master
 
-Your post publishes on the F[123 blog][f123blog]
+Your post publishes on the [F123 blog][f123blog]
 
-If an error occurs, [github pages][github] emails you.
+If an error occurs, [github pages][github pages] emails you.
 
 [github pages]: https://guides.github.com/features/pages/  "github pages"
 
