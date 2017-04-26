@@ -15,31 +15,20 @@
 # in the templates via {{ site.myvariable }}.
 
  title: Technical blog for F123 Visual
- description: A scalable strategy for the education and employment of persons with disabilities.
- tagline: Technology that enables.
- baseurl: "https://f123.github.io"  # the subpath of your site, e.g. /blog
- url: "https://f123.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
-
-# Build settings
+ tagline: Technology that enables
+ baseurl: "https://f123.githhub.io"
+ url: "https://f123.github.io/" 
 markdown: kramdown
     #auto_ids: true
 paginate: 5
 paginate_path: '/blog/page:num/'
 permalink: /blog/:title
 
-# includes
-include: ["_drafts"]
-include: ["_pages"]
-  
 gems:
     - jekyll-paginate
 - jekyll-feed
 
 exclude:
-  - Gemfile
-  - Gemfile.lock
-  - org-source-files
-  - org-setup-files
   - LICENSE
   - README.md
 
