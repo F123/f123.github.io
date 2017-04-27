@@ -42,7 +42,7 @@ collections:
     output: true
     permalink: /:collection/:path/ 
 
-# defaults
+# Defaults
 defaults:
     -
         scope:
