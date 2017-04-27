@@ -20,15 +20,13 @@
  url: 'https://f123.github.io/'
 markdown: kramdown
 markdown_ext: "kd,kdwn,kdown,kramdown,md,mdwn,mdown,mk,markdown"
-
+kramdown:
     #auto_ids: true
 paginate: 5
 paginate_path: '/blog/page:num/'
 permalink: /:title/
 
-gems:
-    - jekyll-paginate
-- jekyll-feed
+gems: [jekyll-paginate, jekyll-feed]
 
 # Includes
 include: ["_pages"]
@@ -43,4 +41,25 @@ collections:
   workflows:
     output: true
     permalink: /:collection/:path/ 
+
+# defaults
+defaults:
+    -
+        scope:
+            path: "" # empty string for all files
+            type: pages
+        values:
+            layout: page
+    -
+        scope:
+            path: "" # empty string for all files
+            type: posts
+        values:
+            layout: post
+    -
+        scope:
+            path: ""
+            type: drafts
+        values:
+            layout: post
 
