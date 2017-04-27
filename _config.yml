@@ -29,6 +29,8 @@ permalink: /:title
 gems:
     - jekyll-paginate
 - jekyll-feed
+
+# Includes
 include: ["_pages"]
 
 exclude:
