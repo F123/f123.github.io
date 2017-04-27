@@ -27,6 +27,7 @@ permalink: /blog/:title
 gems:
     - jekyll-paginate
 - jekyll-feed
+include: ["_pages"]
 
 exclude:
   - LICENSE
