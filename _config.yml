@@ -32,3 +32,10 @@ exclude:
   - LICENSE
   - README.md
 
+
+collections:
+
+  workflows:
+    output: true
+    permalink: /:collection/:path/ 
+
