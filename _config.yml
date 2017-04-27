@@ -16,8 +16,8 @@
 
  title: Technical blog for F123 Visual
  tagline: Technology that enables
- baseurl: "https://f123.githhub.io"
- url: "https://f123.github.io/" 
+ baseurl: ''
+ url: 'https://f123.github.io/'
 markdown: kramdown
     #auto_ids: true
 paginate: 5
