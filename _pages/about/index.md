@@ -6,7 +6,7 @@ permalink: /about/
 Fernando
 --------
 
-<p> The big cheese.
+The big cheese.
 
 Mike
 ----
