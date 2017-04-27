@@ -16,7 +16,7 @@
 
  title: Technical blog for F123 Visual
  tagline: Technology that enables
- baseurl: ''
+ baseurl: 'f123.github.io'
  url: 'https://f123.github.io/'
 markdown: kramdown
 markdown_ext: "kd,kdwn,kdown,kramdown,md,mdwn,mdown,mk,markdown"
@@ -24,7 +24,6 @@ kramdown:
     #auto_ids: true
 paginate: 5
 paginate_path: '/blog/page:num/'
-permalink: /:title/
 
 gems: [jekyll-paginate, jekyll-feed]
 
@@ -40,7 +39,7 @@ collections:
 
   workflows:
     output: true
-    permalink: /:collection/:path/ 
+    permalink: /:collection/:path/
 
 # Defaults
 defaults:
