@@ -24,7 +24,7 @@ markdown_ext: "kd,kdwn,kdown,kramdown,md,mdwn,mdown,mk,markdown"
     #auto_ids: true
 paginate: 5
 paginate_path: '/blog/page:num/'
-permalink: /:title
+permalink: /:title/
 
 gems:
     - jekyll-paginate
