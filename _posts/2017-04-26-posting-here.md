@@ -90,7 +90,7 @@ Updated 2017/04/28 by Rill to add git resources.
 
 [f123blog]: https://f123.github.io/ "F123 blog"
 
-[git]:../workflows/git.html 
+[git]: git.md
 
 [simple]: http://rogerdudler.github.io/git-guide/
 
