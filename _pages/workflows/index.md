@@ -11,6 +11,3 @@ as:
 * git
 * Localization (translation of scripts and programs)
 
-
-Test page.
-
