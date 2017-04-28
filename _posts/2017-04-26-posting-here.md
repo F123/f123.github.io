@@ -74,7 +74,7 @@ If an error occurs, [github pages][github pages] emails you.
 For More Information
 --------------------
 
-For more information on `git`, see Mike's article on [git][git] and
+For more information on `git`, see Mike's [article][git] and
 the web page [git -- the simple guide][simple].
 
 -------------------------------------------------------------------------------
@@ -90,8 +90,8 @@ Updated 2017/04/28 by Rill to add git resources.
 
 [f123blog]: https://f123.github.io/ "F123 blog"
 
-[git]: git.md
+[git]: https://f123.github.io/workflows/git/ "git"
 
-[simple]: http://rogerdudler.github.io/git-guide/
+[simple]: http://rogerdudler.github.io/git-guide/ "git guide"
 
 
