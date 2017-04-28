@@ -23,7 +23,6 @@ Do a `git pull` before you begin every time before writing and
 publishing your post. Make sure you are in the directory containing the web site repository, like this, and then pull:
 
 	cd f123.github.io
-
 	git pull https://github.com/F123/f123.github.io
 
 How to Write a Post
@@ -33,15 +32,15 @@ For technical reasons, posts and pages are written in `kramdown`, a
 variant of `markdown` which includes tables. The major mode `markdown`
 in `emacs` will work very nicely for this.
 
-
 ### Post Conventions ###
 
 [Jekyll][jekyll] expects the post to have the filename
 `yyyy-mm-dd-title.md`. Place this file in the `_posts` directory.
 
-Make sure the filename is entirely in lowercase letters and use dashes to avoid spaces between words. For example:
+Make sure the filename is entirely in lowercase letters and use dashes
+to avoid spaces between words. For example:
 
-2017-04-28-this-is-an-example.md
+    2017-04-28-this-is-an-example.md
 
 Additionally, [Jekyll][jekyll] requires front matter at the top of
 your file. The front matter for this post  follows:
@@ -72,13 +71,27 @@ Your post publishes on the [F123 blog][f123blog]
 
 If an error occurs, [github pages][github pages] emails you.
 
+For More Information
+--------------------
+
+For more information on `git`, see Mike's article on [git][git] and
+the web page [git -- the simple guide][simple].
+
+-------------------------------------------------------------------------------
+
+Updated on April 28, 2017, by Fernando Botelho, to include example of
+pull command and filename.
+
+Updated 2017/04/28 by Rill to add git resources.
+
 [github pages]: https://guides.github.com/features/pages/  "github pages"
 
 [jekyll]: http://jekyllrb.com/ "Jekyll"
 
-
 [f123blog]: https://f123.github.io/ "F123 blog"
 
----
-Updated on April 28, 2017, by Fernando Botelho, to include example of pull command and filename.
+[git]:../workflows/git.html 
+
+[simple]: http://rogerdudler.github.io/git-guide/
+
 
