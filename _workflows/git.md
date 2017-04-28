@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Git Version Control Workflow
-permalink: /git/
+permalink: /workflows/git/
 ---
 
 ## Git Version Control Workflow in F123
