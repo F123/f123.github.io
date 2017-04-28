@@ -23,6 +23,7 @@ Do a `git pull` before you begin every time before writing and
 publishing your post. Make sure you are in the directory containing the web site repository, like this, and then pull:
 
 cd f123.github.io
+
 git pull https://github.com/F123/f123.github.io
 
 How to Write a Post
