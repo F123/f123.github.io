@@ -4,7 +4,12 @@ title: Outline workflows
 permalink: /workflows/
 ---
 
-Workflow outlines.
+
+In this collection I will add workflow outlines to detail such things
+as:
+
+* git
+* Localization (translation of scripts and programs)
 
 
 Test page.
