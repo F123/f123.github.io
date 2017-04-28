@@ -12,7 +12,7 @@ paginate_path: '/blog/page:num/'
 gems: [jekyll-paginate, jekyll-feed]
 
 # Includes
-include: ["_pages"]
+include: ["_pages", "_workflows"]
 
 exclude: ["README.md", "LICENSE"]
 
