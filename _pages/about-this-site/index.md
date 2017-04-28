@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About this site
-permalink: pretty
+permalink: /about-this-site/
 ---
 
 Fernando
@@ -17,7 +17,7 @@ The technical whizkid.
 Rill
 ----
 
-The writer. I post at [rillonline.info](https://rillonline.info).
+The  pragmatist. I post at [rillonline.info](https://rillonline.info).
 
 
 
