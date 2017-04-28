@@ -20,7 +20,10 @@ Clone the [F123 blog][f123blog]. You only need to do this once per machine.
     git clone https://github.com/f123/f123.github.io.git    
 	
 Do a `git pull` before you begin every time before writing and
-publishing your post.
+publishing your post. Make sure you are in the directory containing the web site repository, like this, and then pull:
+
+cd f123.github.io
+git pull https://github.com/F123/f123.github.io
 
 How to Write a Post
 -------------------
@@ -34,6 +37,10 @@ in `emacs` will work very nicely for this.
 
 [Jekyll][jekyll] expects the post to have the filename
 `yyyy-mm-dd-title.md`. Place this file in the `_posts` directory.
+
+Make sure the filename is entirely in lowercase letters and use dashes to avoid spaces between words. For example:
+
+2017-04-28-this-is-an-example.md
 
 Additionally, [Jekyll][jekyll] requires front matter at the top of
 your file. The front matter for this post  follows:
@@ -70,3 +77,7 @@ If an error occurs, [github pages][github pages] emails you.
 
 
 [f123blog]: https://f123.github.io/ "F123 blog"
+
+---
+Updated on April 28, 2017, by Fernando Botelho, to include example of pull command and filename.
+
