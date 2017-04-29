@@ -31,6 +31,9 @@ Working in a buffer and you don't know what keybindings are available?
 	
         Major Mode Bindings:
 	
-6. You can use `c-x c-b` to get back to the list of buffers to find
-   the one you were working in previously.	
+6. You can use `c-x c-bor `c-x <cursor left or right>` to get back to
+   the list of buffers to find the one you were working in previously.
 
+-------------------------------------------------------------------------------
+
+Updated 2017/04/29 by Rill to include cursor movement with c-x.
