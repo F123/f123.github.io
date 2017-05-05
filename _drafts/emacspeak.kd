@@ -84,8 +84,11 @@ Control-E as you can find in the left column.
 | C-e  | e  | end-of-line  |
 | C-e  | f  | emacspeak-speak-buffer-filename  |
 | C-e  | g  | emacspeak-epub  |
-| C-e  | h  | emacspeak-speak-help  |
-| C-e  | i  | emacspeak-tabulate-region  |
+| C-e  i| h  | emacspeak-speak-help  |
+| C-e  |i
+i
+i  | emacspeak-tabulate-region  |
+k
 | C-e  | j  | emacspeak-hide-or-expose-block  |
 | C-e  | k  | emacspeak-speak-current-kill  |
 | C-e  | l  | emacspeak-speak-line  |

@@ -1,0 +1,29 @@
+  Let's imagine you need to prepare a simple outline for an upcoming written project. You can do this in emacs.
+
+1. Open a document in emacs in text mode. You can do this by opening a file with the .text extension.
+
+c-x c-f outline.txt
+
+2. After opening the file, you want to initiate outline mode.
+
+m-x outline-mode
+
+3. Now let's write some first level headings.
+
+* Prologue
+
+Say a little bit about why you want to write this document.
+
+* Introduction
+
+Say something about your subject.
+
+* The Meat of Your Project
+
+** A million explanations
+
+* Conclusion
+
+* Epilogue
+
+mil

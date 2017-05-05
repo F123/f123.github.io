@@ -4,7 +4,7 @@ title: Posting Here
 author: Rill
 excerpt: How to write a post to this blog.
 tags: [blogging]
-permalink: /blog/posting-here
+permalink: /blog/posting-here/
 ---
 
 I set up [github pages][github pages] with [Jekyll][jekyll]. It is not
