@@ -4,7 +4,7 @@ title: Arch Linux Phasing out 32-bit
 author: Mike Ray
 excerpt: Arch Linux are phasing out i686 (32-bit) Support on the desktop
 tags: [Arch, Linux]
-permalink: /blog/:title/
+permalink: /blog/arch-linux-phasing-out-32-bit/
 ---
 
 Arch Linux is to be the base of the new F123 Visual. And as Arch are phasing out support for 32-bit 

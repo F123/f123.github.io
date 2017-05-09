@@ -4,7 +4,7 @@ title: Branches on f123-iso-script
 author: Mike Ray
 excerpt: Working branches in the f123e-iso-script repository
 tags: [ISO]
-permalink: /blog/:title/
+permalink: /blog/branches-on-f123-iso-script/
 ---
 
 In the `f123e-iso-script` repository I currently have two working branches:
