@@ -51,7 +51,7 @@ your file. The front matter for this post  follows:
     author: Rill
     excerpt: How to write a post to this blog.
     tags: [blogging]
-    permalink: /blog/posting-here
+    permalink: /blog/posting-here/
     ---
 
 ### Just Write ###
