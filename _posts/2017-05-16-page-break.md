@@ -2,7 +2,7 @@
 layout: post
 title: Inserting a page-break into an Emacs Buffer
 author: Mike Ray
-excerpt:How to insert a page-break (form-feed) into an emacs buffer
+excerpt: How to insert a page-break (form-feed) into an emacs buffer
 tags: [emacs]
 permalink: /blog/:title/
 ---
