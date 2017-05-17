@@ -10,7 +10,7 @@ permalink: /blog/:title/
 I have made some improvements to the boot menu for the ISO installer.
 
 I had managed to 'break' the audible bell on boot, which I have fixed now. This is a list of what I 
-hve done:
+have done:
 
 * Put back the audible bell (beep)
 * Removed network and http boot options from the menu
