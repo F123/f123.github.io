@@ -91,3 +91,6 @@ archlinuxarm.org Web site is better anyway, I think.
 [armv6h]:http://archlinuxarm.org/os/ArchLinuxARM-rpi-latest.tar.gz
 [armv7h]: http://archlinuxarm.org/os/ArchLinuxARM-rpi-2-latest.tar.gz
 [armv8h]: http://archlinuxarm.org/os/ArchLinuxARM-rpi-3-latest.tar.gz
+
+
+
